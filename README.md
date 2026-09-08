@@ -14,4 +14,4 @@ We now have to actually update our menu with all of our changes. Go back into th
 
 # Task 4
 
-Nordlyskiosken is making a new night menu. Go into the ```night-menu``` branch, create a new file, ```night_menu.txt```, in which all of the prices are 80kr. Then merge this into the main branch again.
+Nordlyskiosken is making a new night menu. Make a new branch called ```night-menu```, go into it, create a new file, ```night_menu.txt```, in which all of the prices are 80kr. Then merge this into the main branch again.
